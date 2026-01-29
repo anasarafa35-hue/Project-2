@@ -1,0 +1,35 @@
+
+
+body {
+    background-color: #f4eee1;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: #181717;
+    margin: 0;
+    padding: 0;
+  }
+
+   nav {
+    background: #e4e6e9;
+    padding: 15px;
+    position: sticky;
+    top: 0;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+
+   nav a {
+    color: rgb(66, 62, 62);
+    text-decoration: none;
+    padding: 10px 15px;
+    margin: 0 5px;
+    border-radius: 4px;
+    transition: 0.3s;
+    font-weight: bold;
+  }
+
+  nav a:hover {
+    background: #d4af37;
+  }
+
+  
